@@ -20,7 +20,7 @@ class _TranslationScreenUsingDeepSeekState
   bool _isOnline = true;
 
   // You need to replace this with your actual DeepSeek API key
-  final String _apiKey = 'sk-836c7c0551bb494f8389d81ca3b330a9';
+  final String _apiKey = '';
   final String _apiUrl = 'https://api.deepseek.com/v1/chat/completions';
 
   @override
